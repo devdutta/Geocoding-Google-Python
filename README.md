@@ -1,4 +1,4 @@
-# Geocoding--Google-Python--Simple-A.F.
+# Geocoding-Google-Python
 25 line python script to geocoding addresses.
 
 # Usage example:
